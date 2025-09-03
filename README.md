@@ -1,7 +1,7 @@
 
 # BIOMEDICAL ENGINEERING
 
-By: Sumeet Singh @ sumeet-singh.com
+By: Sumeet Chand
 
 Date: January 2025
 
